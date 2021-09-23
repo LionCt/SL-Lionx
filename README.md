@@ -1,9 +1,9 @@
 
 <div align="center">
-  <h1>📛🍁 T-REX BOT OFFICIAL 🍁📛</h1>
+  <h1> 🇱🇰🔰✥▬ALPHA▬✥🔰🇱🇰  Group Management  Bot </h1>
 </div>
 <div align="center">
-  <img border-radius: 15px src="https://telegra.ph/file/10bdbaab2d4d163e2affa.jpg" width="400" height="400"/>
+  <img border-radius: 15px src="https://telegra.ph/file/c4f4d62acfce433ed3f5e.jpg" width="400" height="400"/>
   <p align="center">
 <a href="#"><img title="White" src="https://img.shields.io/badge/T REX PUBLIC-blue?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
 </p>
