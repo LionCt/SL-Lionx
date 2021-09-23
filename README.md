@@ -4,8 +4,6 @@
 </div>
 <div align="center">
   <img border-radius: 15px src="https://telegra.ph/file/c4f4d62acfce433ed3f5e.jpg" width="400" height="400"/>
-  <p align="center">
-<a href="#"><img title="White" src="https://img.shields.io/badge/T REX PUBLIC-blue?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
 </p>
   <p align="center">
 <a href="https://github.com/TRexWa"><img title="White Dragon" src="https://img.shields.io/badge/Created💥by💥 HIRUWA-dqz/JulieMwol?color=red&style=for-the-badge&logo=whatsapp"></a>
@@ -48,9 +46,9 @@ Click WA logo to Join Support Group 👇
 
   ### Simple Method
   
-[![Run on Repl.it](https://repl.it/badge/github/quiec/whatsAlfa)](https://replit.com/@TRexWa/T-REX-QR-SESSION)
+[![Run on Repl.it](https://repl.it/badge/github/quiec/whatsAlfa)](https://replit.com/@CTBOT/Alpha-QR?v=1)
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](http://heroku.com/deploy?template=https://github.com/Dark-Knight-Hiruwa/T-REX)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/AchiyaCT/Alpha)
      </div>
 <br>
 <br >
@@ -81,10 +79,10 @@ CREATED BY HIRUWA
 
 
 <div align="center">
-  <img src="https://i.ibb.co/r3wmpwr/LOGO.jpg" width="200" height="200">
-  <p>👸💎 QUEEN AMDI BOT 💎👸</p>
-</div>
-    <a href="https://github.com/BlackAmda/QueenAmdi"><img title="White" src="https://img.shields.io/badge/QueenAmdi Base Bot-blue?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
+
+  <p>The Dark Night (HIRUWA)</p>
+
+  <p>The pearl Owner Kasun</p>
 
 </div>
     
