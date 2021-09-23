@@ -1,46 +1,97 @@
-<h1 align="center"><b> THE X-Troid Public Bot  </b></h1>
 
-![logo](https://telegra.ph/file/569fd05fb4c587a360d38.jpg)
-
-
-
-
+<div align="center">
+  <h1>📛🍁 T-REX BOT OFFICIAL 🍁📛</h1>
+</div>
+<div align="center">
+  <img border-radius: 15px src="https://telegra.ph/file/10bdbaab2d4d163e2affa.jpg" width="400" height="400"/>
+  <p align="center">
+<a href="#"><img title="White" src="https://img.shields.io/badge/T REX PUBLIC-blue?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
+</p>
+  <p align="center">
+<a href="https://github.com/TRexWa"><img title="White Dragon" src="https://img.shields.io/badge/Created💥by💥 HIRUWA-dqz/JulieMwol?color=red&style=for-the-badge&logo=whatsapp"></a>
+</p>
+</div>
 <p align="center">
-    Project of X-Troid - Makes it easy and fun to use Whatsapp. Also first Sinhala userbot for Whatsapp.
-    <br>
-        <a href="http://t.me/danumabots">Telegram Channel</a> |
-        <a href="https://t.me/danuma01">Telegram Group</a> |
-        <a href="https://chat.whatsapp.com/JigWG8oj1hj1YXLgJaqxta">New Support Group</a> |
-        <a href="https://t.me/unofficialplugin">All Groups & channels </a> |
-    <br>
+Project created by <a href="https://github.com/Dark-Knight-Hiruwa"> HIRUWA</a> This project may be free
+    <br
+       | © |
+        owner |
+    <br> 
 </p>
 
-[![Run on Repl.it](https://repl.it/badge/github/phaticusthiccy/WhatsAsenaDuplicated)](https://replit.com/@lasindu123/XTROID)
+----
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/lasiyaWA/X-Troid)
+  <p align="center">
+  <a href="https://github.com/Dark-Knight-Hiruwa">
+    <img src="https://img.shields.io/github/repo-size/Dark-Knight-Hiruwa/T-REX?color=green&label=Repo%20total%20size&style=plastic">
+<p align="center">
+<a href="https://github.com/Dark-Knight-Hiruwa/followers"><img title="Followers" src="https://img.shields.io/github/followers/Dark-Knight-Hiruwa?color=blue&style=flat-square"></a>
+<a href="https://github.com/Dark-Knight-Hiruwa/T-REX/stargazers"><img title="Stars" src="https://img.shields.io/github/stars/Dark-Knight-Hiruwa/T-REX?color=blue&style=flat-square"></a>
+<a href="https://github.com/Dark-Knight-Hiruwa/T-REX/network/members"><img title="Forks" src="https://img.shields.io/github/forks/Dark-Knight-Hiruwa/T-REX?color=blue&style=flat-square"></a>
+<a href="https://github.com/Dark-Knight-Hiruwa/T-REX/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/Dark-Knight-Hiruwa/T-REX?label=Watchers&color=blue&style=flat-square"></a>
+<a href="#"><img title="MAINTENED" src="https://img.shields.io/badge/UNMAINTENED-YES-blue.svg"</a>
+</p>
+  
+
+## 📢 Guide
+Click WA logo to Join Support Group 👇
+    <br>
+<br>
+  [![join](https://github.com/Alien-alfa/PublicBot/blob/main/wlogo.svg.png)](https://chat.whatsapp.com/GT5V8RakkftB7DAKWMeQML)
+  <div align="center">
+       
+  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Dark-Knight-Hiruwa&repo=T-REX&theme=nightowl)](https://github.com/Dark-Knight-Hiruwa/T-REX)
+  </div>
+    
+## Setup
+<div align="center">
+
+  ### Simple Method
+  
+[![Run on Repl.it](https://repl.it/badge/github/quiec/whatsAlfa)](https://replit.com/@TRexWa/T-REX-QR-SESSION)
+
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](http://heroku.com/deploy?template=https://github.com/Dark-Knight-Hiruwa/T-REX)
+     </div>
+<br>
+<br >
+
+```
+T-REX WHATSAPP BOT BY HIRUWA
+``` 
+    
+    
+[![TRAILER](https://telegra.ph/file/10bdbaab2d4d163e2affa.jpg)](https://www.youtube.com/embed/oWDW6_Ewi1U)
+
+<div align="center">
+  <h1>🍁T-REX OFFICIAL TRAILER🍁</h1>
+  <p>📛 WATCH T-REX BOT TRAILER VIDEO CLICK T-REX LOGO📛
+</div>
 
 
-
+  
+  
 ### ⚠️ Warning! 
 ```
-Due to Userbot; Your WhatsApp account may be banned.
-This is an open source project, you are responsible for everything you do. 
-Absolutely, Asena executives do not accept responsibility.
-By establishing the Asena, you are deemed to have accepted these responsibilities.
+කරුනාකර ඉහත වට්සැප් ලොගො එක ක්ලික් කරල suppot group එකට ජොයින් වෙන්න
+CREATED BY HIRUWA
 ```
+
+## Helpers
+<div align="center">
+
+
+<div align="center">
+  <img src="https://i.ibb.co/r3wmpwr/LOGO.jpg" width="200" height="200">
+  <p>👸💎 QUEEN AMDI BOT 💎👸</p>
+</div>
+    <a href="https://github.com/BlackAmda/QueenAmdi"><img title="White" src="https://img.shields.io/badge/QueenAmdi Base Bot-blue?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
+
+</div>
+    
+
+
+## License
+This project is protected by `GNU General Public Licence v3.0` license.
+
 ### Disclaimer
 `WhatsApp` name, its variations and the logo are registered trademarks of Facebook. We have nothing to do with the registered trademark
-
-## Thanks To
-[![Yusuf Usta](https://github.com/yusufusta.png?size=50)](https://t.me/fusufs)  | [![CW4RR10R](https://github.com/CW4RR10R.png?size=50)](https://github.com/CW4RR10R)
-----|----|
-[Yusuf Usta](https://t.me/fusufs) | [CW4RR10R](https://t.meW4RR10R)
- Base, | hepls,idea
-
-# base bot
-https://github.com/yusufusta/WhatsAsena
-
-# Baileys whatsapp api 
-https://github.com/adiwajshing/Baileys
-[![](https://telegra.ph/file/1c742619b421e4713e414.jpg?size=50)](https://t.me/danumabots) 
-
