@@ -84,9 +84,6 @@ CREATED BY HIRUWA
 
   <p>The pearl Owner Kasun</p>
 
-</div>
-    
-
 
 ## License
 This project is protected by `GNU General Public Licence v3.0` license.
