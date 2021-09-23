@@ -5,12 +5,9 @@
 <div align="center">
   <img border-radius: 15px src="https://telegra.ph/file/c4f4d62acfce433ed3f5e.jpg" width="400" height="400"/>
 </p>
-  <p align="center">
-<a href="https://github.com/TRexWa"><img title="White Dragon" src="https://img.shields.io/badge/Created💥by💥 HIRUWA-dqz/JulieMwol?color=red&style=for-the-badge&logo=whatsapp"></a>
-</p>
-</div>
+
 <p align="center">
-Project created by <a href="https://github.com/Dark-Knight-Hiruwa"> ACHIYA</a> This project may be free
+Project created by <a href="https://github.com/AchiyaCT/Alpha"> ACHIYA</a> This project may be free
     <br
        | © |
         owner |
@@ -53,7 +50,7 @@ CREATED BY ACHIYA
   <p>The Dark Night (HIRUWA)</p>
 
   <p>The pearl Owner Kasun</p>
-
+<br>
 
 ## License
 This project is protected by `GNU General Public Licence v3.0` license.
